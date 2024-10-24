@@ -13,6 +13,5 @@ void duihuan() {
 }
 int main() {
 	duihuan();
-	cout << "2412402060718 �信ΰ" << endl;
 	return 0;
 }
